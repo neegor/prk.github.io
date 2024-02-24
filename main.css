@@ -4,6 +4,7 @@
 body,
 html {
     height: 100%;
+    background-color: #FFF9C2;
 }
 
 div.main {
@@ -13,7 +14,12 @@ div.main {
     justify-content: center;
 }
 
-div.main h1 {
-    margin: 0;
+.foot {
     font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+div.main img {
+    width: 900px;
 }
