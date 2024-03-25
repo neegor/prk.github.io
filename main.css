@@ -1,20 +1,10 @@
 body,
 html {
     height: 100%;
-}
-
-div.main {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.foot {
-    font-size: 12px;
-    text-transform: uppercase;
-}
-
-div.main img {
-    width: 900px;
+    background-color: #E8ED00;
+    background-image: url("./prarock.svg");
+    background-repeat: no-repeat;
+    background-position: 57% 50%;
+    background-size: auto 100%;
+    overflow: hidden;
 }
